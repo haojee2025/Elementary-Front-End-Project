@@ -22,5 +22,4 @@ No frameworks, no dependencies—just pure vanilla web development!
 
 ## 📷 Screenshot
 
-![Screenshot of Simple Solar System](SimpleSolarSystem.png)
-*Animation of the Sun, Earth, and Moon in action.*
+<img src="SimpleSolarSystem.png" alt="Preview" width="200" height="250"/>
