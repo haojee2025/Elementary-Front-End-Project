@@ -21,4 +21,4 @@ No frameworks, no dependencies—just pure vanilla web development!
 
 ## 📷 Screenshot
 
-<img src="EFP-2-SimpleCalculator.png" alt="Preview" width="100" height="250"/>
+<img src="EFP-2-SimpleCalculator" alt="Preview" width="100" height="250"/>
