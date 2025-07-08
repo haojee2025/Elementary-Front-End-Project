@@ -48,19 +48,19 @@ git clone https://github.com/haojee2025/Elementary-Front-End-Project.git
 
 `Open a Project:`
 
--Navigate to any EFP-X-ProjectName folder (e.g., EFP-1-ToDoList).
+- Navigate to any EFP-X-ProjectName folder (e.g., EFP-1-ToDoList).
 
--Open index.html in a web browser (e.g., Chrome, Firefox).
+- Open index.html in a web browser (e.g., Chrome, Firefox).
 
--Alternatively, use a local development server like VS Code’s Live Server for a live preview.
+- Alternatively, use a local development server like VS Code’s Live Server for a live preview.
 
 `Explore and Learn:`
 
--Check the README.md in each project folder for a description and learning goals.
+- Check the README.md in each project folder for a description and learning goals.
 
--Dive into the index.html, style.css, and script.js files to understand the code.
+- Dive into the index.html, style.css, and script.js files to understand the code.
 
--Tweak the code to experiment and build your skills!
+- Tweak the code to experiment and build your skills!
 
 ## 💡 Why This Exists<br>
 `I created this repository to:`
