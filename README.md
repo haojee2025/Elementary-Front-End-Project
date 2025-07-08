@@ -20,7 +20,8 @@ Elementary-Front-End-Project/
 ## 🧾 What You’ll Find<br>
 
 `📅 Daily Projects` 
-- Each project is housed in a folder named EFP-X-ProjectName (e.g., EFP-1-ToDoList, EFP-2-Calculator), where X is the day number and ProjectName describes the project.
+- Each project is housed in a folder named EFP-X-ProjectName (e.g., EFP-1-ToDoList, EFP-2-Calculator), 
+where X is the day number and ProjectName describes the project.
 
 - Built with HTML, CSS, and JavaScript, designed to be beginner-friendly.
 
