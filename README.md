@@ -40,7 +40,7 @@ Elementary-Front-End-Project/
 ## ⚙️ How to Run<br>
 - No setup, no installations—just a browser! 🌐
 
-'Clone the Repository:`
+`Clone the Repository:`
 
 ```bash
 git clone https://github.com/haojee2025/Elementary-Front-End-Project.git
@@ -63,9 +63,9 @@ git clone https://github.com/haojee2025/Elementary-Front-End-Project.git
 -Tweak the code to experiment and build your skills!
 
 ## 💡 Why This Exists<br>
-'I created this repository to:'
+`I created this repository to:`
 
-- Build consistency by coding one front-end project daily from July 8, 2025, to December 31, 2026. 📓
+- Build consistency by coding one front-end project weekly from July 8, 2025, to December 31, 2026. 📓
 
 - Master the fundamentals of HTML, CSS, and JavaScript.
 
