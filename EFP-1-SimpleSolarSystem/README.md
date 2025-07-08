@@ -22,4 +22,4 @@ No frameworks, no dependencies—just pure vanilla web development!
 
 ## 📷 Screenshot
 
-<img src="SimpleSolarSystem.png" alt="Preview" width="200" height="250"/>
+<img src="EFP-1-SimpleSolarSystem.png" alt="Preview" width="200" height="250"/>
