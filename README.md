@@ -40,10 +40,11 @@ Elementary-Front-End-Project/
 ## ⚙️ How to Run<br>
 - No setup, no installations—just a browser! 🌐
 
-Clone the Repository:
+'Clone the Repository:`
 
 ```bash
 git clone https://github.com/haojee2025/Elementary-Front-End-Project.git
+```
 
 `Open a Project:`
 
@@ -72,7 +73,7 @@ git clone https://github.com/haojee2025/Elementary-Front-End-Project.git
 
 - Provide clean, dependency-free code that works out of the box.
 
-- This is my journey to grow as a developer while helping others start theirs. No frameworks, no complexity—just pure web dev fun! 😄
+- This is my journey to grow as a developer while helping others start theirs.<br>No frameworks, no complexity—just pure web dev fun! 😄
 
 
 ## 📬 Contact<br>
