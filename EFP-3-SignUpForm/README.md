@@ -22,4 +22,4 @@ while building a practical, real-world component! 🌟📝
 
 ## 📷 Screenshot
 
-<img src="EFP-3-SimpleSolarSystem.png" alt="Preview" width="300" height="390"/>
+<img src="EFP-3-SignUpForm.png" alt="Preview" width="300" height="390"/>

@@ -3,24 +3,23 @@ Welcome! This is my personal learning repository for building beginner-friendly 
 
 ```plaintext
 Elementary-Front-End-Project/
-├── EFP-1-ProjectName/             # 📅 Day 1 project 
-│   ├── index.html                 # 📄 HTML structure
-│   ├── style.css                  # 🎨 CSS styling
-│   ├── script.js                  # 🛠 JavaScript functionality
-│   └── README.md                  # 📝 Project description
-├── EFP-2-ProjectName/             # 📅 Day 2 project 
-│   ├── index.html                 # 📄 HTML structure
-│   ├── style.css                  # 🎨 CSS styling
-│   ├── script.js                  # 🛠 JavaScript functionality
-│   └── README.md                  # 📝 Project description
-├── ...                            # More daily projects 
-└── README.md                      # 📚 You’re reading it!
+├── EFP-1-SimpleSolarSystem/             # 📅 Day 1 project 
+│   ├── index.html                       # 📄 HTML structure
+│   ├── style.css                        # 🎨 CSS styling
+│   └── README.md                        # 📝 Project description
+├── EFP-2-SimpleCalculator/              # 📅 Day 2 project 
+│   ├── index.html                       # 📄 HTML structure
+│   ├── style.css                        # 🎨 CSS styling
+│   ├── script.js                        # 🛠 JavaScript functionality
+│   └── README.md                        # 📝 Project description
+├── ...                                  # More daily projects 
+└── README.md                            # 📚 You’re reading it!
 ```
 
 ## 🧾 What You’ll Find<br>
 
 `📅 Daily Projects` 
-- Each project is housed in a folder named EFP-X-ProjectName (e.g., EFP-1-ToDoList, EFP-2-Calculator), 
+- Each project is housed in a folder named EFP-X-ProjectName (e.g., EFP-1-SimpleSolarSystem, EFP-2-SimpleCalculator), 
 where X is the day number and ProjectName describes the project.
 
 - Built with HTML, CSS, and JavaScript, designed to be beginner-friendly.
